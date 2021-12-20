@@ -1,37 +1,37 @@
 {
-  'events': [
+  "events": [
     {
-      id: 960815,
-      category: 'animal welfare',
-      title: 'Cat Adoption Day',
-      description: 'Find your new feline friend at this event.',
-      location: 'Meow Valley',
-      date: 'January 6, 2022',
-      time: '12:00',
-      petsAllowed: true,
-      organizer: 'Kit 10'
+      "id": 960815,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Valley",
+      "date": "January 6, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kit 10"
     },
     {
-      id: 780815,
-      category: 'drinking',
-      title: 'Oblivion Day',
-      description: 'Join us as we get shitfaced drunk.',
-      location: 'Comatorium',
-      date: 'March 03, 2022',
-      time: '09:30',
-      antiAlcoholicBeveragesAllowed: false,
-      organizer: 'Charles Bukowski'
+      "id": 780815,
+      "category": "drinking",
+      "title": "Oblivion Day",
+      "description": "Join us as we get shitfaced drunk.",
+      "location": "Amok City, Comatorium",
+      "date": "March 03, 2022",
+      "time": "09:30",
+      "antiAlcoholicBeveragesAllowed": false,
+      "organizer": 'Charles Bukowski'
     },
     {
-      id: 820815,
-      category: 'animal welfare 2.0',
-      title: 'All You Can Eat - Rugged Outdoors Edition',
-      description: 'Join us as we are thinning out the numbers of various endangered and delicious species and BBQ them afterwards',
-      location: 'Red Wood Forest',
-      date: 'May 01, 2022',
-      time: '06:00',
-      vegetariensAllowed: false,
-      organizer: 'Carl Worscht'
+      "id": 820815,
+      "category": "animal welfare 2.0",
+      "title": "All You Can Eat - Rugged Outdoors Edition",
+      "description": "Join us as we are thinning out the numbers of various endangered and delicious species and BBQ them afterwards",
+      "location": "Wilderness",
+      "date": "May 01, 2022",
+      "time": "06:00",
+      "vegetariensAllowed": false,
+      "organizer": "Karl Worscht"
     }
   ]
 }  
